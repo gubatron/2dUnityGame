@@ -63,21 +63,21 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11240}
+      Script: {instanceID: 11242}
     - Class: 114
-      Script: {instanceID: 11308}
+      Script: {instanceID: 11310}
     - Class: 114
-      Script: {instanceID: 11528}
+      Script: {instanceID: 11530}
     - Class: 114
-      Script: {instanceID: 11650}
+      Script: {instanceID: 11652}
     - Class: 114
-      Script: {instanceID: 12656}
+      Script: {instanceID: 12658}
     - Class: 114
-      Script: {instanceID: 12788}
+      Script: {instanceID: 12790}
     - Class: 114
-      Script: {instanceID: 13528}
+      Script: {instanceID: 13530}
     - Class: 114
-      Script: {instanceID: 13600}
+      Script: {instanceID: 13602}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -110,7 +110,7 @@ ScriptsOnlyBuild:
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 13528}
+      Script: {instanceID: 13530}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -676,4 +676,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Scene 1.unity
   - Assets/Scenes/Scene 2.unity
-  playerPath: /Users/katay/Desktop/domestika.app
+  playerPath: /Users/gubatron/workspace.frostwire/2dUnityGame/TT.app

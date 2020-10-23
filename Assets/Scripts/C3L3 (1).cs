@@ -11,8 +11,6 @@ public class C3L3 : MonoBehaviour
 	public int[] myArrayOfInts;
 
 	private int _myPrivateInteger = 10;
-	float _myPrivateFloar = -5.0f;
-
 
     // Start is called before the first frame update
     void Start()
@@ -100,7 +98,7 @@ public class C3L3 : MonoBehaviour
 	// Update is called once per frame
 	void Update()
     {
-        
+
     }
 
 

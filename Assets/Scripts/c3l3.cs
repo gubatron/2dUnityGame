@@ -10,9 +10,6 @@ public class c3l3 : MonoBehaviour
     public string myString = "Hello World";
     public int[] myArrayOfInts;
 
-    private int _myPrivateInteger = 10;
-    float _myPrivateFloat = -5.0f;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -36,7 +33,7 @@ public class c3l3 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     bool IsEven(int num)
