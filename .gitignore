@@ -1,4 +1,7 @@
 .DS_Store
+Library/Artifacts/**
+Library/SourceAssetDB-lock
+Library/shadercompiler-UnityShaderCompiler0.log
 Temp/**
-Library/**
 obj/**
+obj/Debug/**
